@@ -34,7 +34,5 @@ services:
 volumes:
   library-app:
     name: library-app
-    external: true
   manticore:
     name: library_manticore
-    external: true
